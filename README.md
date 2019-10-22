@@ -34,7 +34,7 @@ If you have not worked with a Sass-based workflow before, I would recommend read
 ### 1. Clone the repository and install with npm
 ```bash
 $ cd my-wordpress-folder/wp-content/themes/
-$ git clone https://github.com/olefredrik/FoundationPress.git
+$ git clone https://github.com/keithgreer/FoundationPress.git
 $ cd FoundationPress
 $ npm install
 ```
